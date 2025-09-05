@@ -16,6 +16,8 @@ Each folder demonstrates small, focused programs that map to topics from the boo
 ## 📖 Reference
 For detailed explanations of the concepts, refer to the full text of *Operating System: Three Easy Pieces* (available for free online):  
 👉 [OSTEP Official Website](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+[Direct Download](https://dn721806.ca.archive.org/0/items/operating-systems-three-easy-pieces/Remzi%20H.%20Arpaci-Dusseau%2C%20Andrea%20C.%20Arpaci-Dusseau%20-%20Operating%20Systems%20-%20Three%20Easy%20Pieces.pdf)
+[Additional Download](https://github.com/mthipparthi/operating-systems-three-easy-pieces)
 
 ---
 

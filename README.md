@@ -2,6 +2,10 @@
 
 This repository contains **sample source code examples** inspired by the book *[Operating System: Three Easy Pieces (OSTEP)](http://pages.cs.wisc.edu/~remzi/OSTEP/)* by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau.  
 
+For Software Engineering: A Practitioner's Approach (9th Ed), refer the following link:
+
+👉 [Software Engineering](https://github.com/Mobiwn/Fundamentals-of-Software-Engineering)
+
 The purpose of this repo is to provide **hands-on code** to better understand key Operating System concepts such as:
 - Processes and Threads  
 - Virtual Memory and Address Translation  
@@ -19,7 +23,9 @@ For detailed explanations of the concepts, refer to the full text of *Operating 
 
 👉 [Direct Download](https://dn721806.ca.archive.org/0/items/operating-systems-three-easy-pieces/Remzi%20H.%20Arpaci-Dusseau%2C%20Andrea%20C.%20Arpaci-Dusseau%20-%20Operating%20Systems%20-%20Three%20Easy%20Pieces.pdf)
 
-👉 [Additional Download](https://github.com/mthipparthi/operating-systems-three-easy-pieces)
+👉 [Additional Download1](https://github.com/JorritWillaert/Operating-systems-Three-easy-pieces)
+
+👉 [Additional Download2](https://github.com/mthipparthi/operating-systems-three-easy-pieces)
 
 ---
 

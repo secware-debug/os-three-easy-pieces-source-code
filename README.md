@@ -1,12 +1,6 @@
 # Operating System: Three Easy Pieces — Example Code
 
-This repository contains **sample source code examples** inspired by the book *[Operating System: Three Easy Pieces (OSTEP)](http://pages.cs.wisc.edu/~remzi/OSTEP/)* by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau.  
-
-For Software Engineering: A Practitioner's Approach (9th Ed and 8th Ed), refer the following link:
-
-👉 [Software Engineering, 9th](https://github.com/Mobiwn/Fundamentals-of-Software-Engineering)
-
-👉 [Software Engineering, 8th](https://invent.ilmkidunya.com/images/Section/12.pdf)
+This repository contains **sample source code examples** inspired by the book *[Operating System: Three Easy Pieces (OSTEP)](http://pages.cs.wisc.edu/~remzi/OSTEP/)* by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau. This repository should contain up-to-dated mockup data to make it work with latest OS versions.
 
 The purpose of this repo is to provide **hands-on code** to better understand key Operating System concepts such as:
 - Processes and Threads  
